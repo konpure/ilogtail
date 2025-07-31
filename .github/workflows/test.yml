@@ -1,4 +1,4 @@
-name: Release Image
+name: Release Image test
 
 permissions:
   contents: write
